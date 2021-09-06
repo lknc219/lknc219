@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oraclef&logoColor=white"/></a>
